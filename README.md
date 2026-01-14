@@ -16,3 +16,4 @@ Python · PyTorch · TensorFlow · Hugging Face · LangChain · FAISS · scikit-
 
 * **LinkedIn:** [https://www.linkedin.com/in/hanashamsa](https://www.linkedin.com/in/hanashamsa)
 * **Email:** [hanasvarikottuparambil@outlook.com](mailto:hanasvarikottuparambil@outlook.com)
+* **Portfolio:**[hanashamsa.github.io](https://hanashamsa.github.io)
