@@ -1,6 +1,6 @@
 #  Hi, I’m Hanas
 
-I’m an **AI Engineer and MSc Artificial Intelligence student**, focused on **Large Language Models, RAG systems, and reliable AI**. I build **end-to-end AI solutions** with an emphasis on robustness, evaluation, and real-world impact.
+I’m an **AI Engineer and MSc Artificial Intelligence student**, focused on **Large Language Models, RAG systems, and reliable AI**. I build **AI solutions** with an emphasis on robustness, evaluation, and real-world impact.
 
 ##  Currently working on
 
